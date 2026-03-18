@@ -56,7 +56,7 @@ How to Use-
 2. Navigate to the “Scenario Analysis” sheet
 3. Select the desired scenario (Best/Base/Worst)
 4. Review outputs in:
-  i. Valuation sheet
+  i. Valuation sheet & 
   ii. Financial statements
 
 Investment Thesis:
@@ -76,13 +76,13 @@ Anti-Thesis:
 4. Regulatory risks (e.g., taxes on luxury goods)
 
 Tools Used:
-Microsoft Excel
-Financial Modeling & Valuation techniques
+1. Microsoft Excel
+2. Financial Modeling & Valuation techniques
 
 File Information:
 File: Ethos Ltd. FMVA.xlsx
 Type: Financial Model
 
 About This Project:
-This project was developed as part of my practice in financial modeling and valuation. It reflects my ability to build structured, dynamic, and insight-driven.financial models.
+This project was developed as part of my practice in financial modeling and valuation. It reflects my ability to build structured, dynamic, and insight-driven financial models.
   
