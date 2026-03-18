@@ -66,7 +66,7 @@ Investment Thesis:
   Exclusive brand partnerships
   India-specific luxury offerings
   Pre-owned watch segment
-  Insurance for wayches
+  Insurance for watches
 4. Limited listed players in the luxury retail theme
 
 Anti-Thesis:
