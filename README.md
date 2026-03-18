@@ -25,7 +25,7 @@ User-controlled sheet
 Toggle between Best, Base, and Worst case scenarios
 Automatically reflects impact on valuation and financials
 
-4.Balance Sheet (historical + forecast, fully balanced)
+4. Balance Sheet (historical + forecast, fully balanced)
 
 5. Income Statement
 
