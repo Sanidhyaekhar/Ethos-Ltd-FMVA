@@ -1,61 +1,88 @@
-# Ethos-Ltd-FMVA
-This project is a comprehensive financial model of Ethos Ltd, built in Microsoft Excel. It includes detailed analysis of the company’s financial performance, covering historical data, projections, and key valuation insights.
+This project is a comprehensive financial model of Ethos Limited, built in Microsoft Excel. It includes detailed analysis of the company’s financial performance, covering historical data, forecasting, and valuation.
+The model demonstrates core financial modeling skills such as 3-statement modeling, scenario analysis, and valuation techniques.
 
-The model is designed to demonstrate financial analysis skills including forecasting, valuation, and financial statement linkage.
-
-🎯 Objectives
+Objectives-
 Analyze historical financial performance
-Build a 3-statement financial model
-Forecast future revenue, costs, and profitability
-Perform valuation using key financial techniques and in different business scenarios
+Build a fully integrated 3-statement financial model
+Forecast revenue, costs, and profitability
+Perform valuation using multiple approaches
+Analyze different business scenarios (Best, Base, Worst)
 
+Model Structure
+The Excel model is organized into the following key sections:
 
-🧩 Model Structure
-The Excel model is divided into the following sections:
-1.Assumptions-
-All the assumptions used in the model are hardcoded here. all the assumptions flow from here to the entire model 
+1. Assumptions
+Centralized input sheet for all key drivers
+All model outputs are dynamically linked to this sheet
 
-2.Valuation
-2 types of valuation methods are use to value the stock. Relative valuation (Comparable company model) and Absolute valuation (DCF). an average of both the model is considered as the value of the stock
+2. Valuation
+Relative Valuation (Comparable Company Analysis)
+Absolute Valuation (Discounted Cash Flow – DCF)
+Final valuation derived using a blended approach
 
-3.Scenario Analsysis-
-This is a editable sheet for the viewers. Viewers can select from 3 scerios - Best,base and worst and can see the change in the valuation
+3. Scenario Analysis
+User-controlled sheet
+Toggle between Best, Base, and Worst case scenarios
+Automatically reflects impact on valuation and financials
 
-4.Balance sheet-
-A tallyed balance sheet with historical and forecasted data 
+4.Balance Sheet (historical + forecast, fully balanced)
 
-5.Income statement 
-6.cash flow 
-7.revenue assumption -
-The revenue drivers used for revenue forecasting here is Number of new store added during the year and the same store growth (SSG)
+5. Income Statement
 
-8. Cost model
-9. capex scheduke
-10. working capital schedule
-11. lease scheduled
-12. debt schedule
+6. Cash Flow Statement
 
-How to Use
+5. Revenue Model
+Driven by:
+Number of new stores added
+Same Store Growth (SSG)
 
-1.Open the Excel file
-2.Go to the "Scenario Analysis" sheet
-3.Select the scenarios as needed
-4.Review outputs in:
-  Valuation &
+6. Cost Model
+
+7. Supporting Schedules-
+  Capex Schedule
+  Working Capital Schedule
+  Lease Schedule
+  Debt Schedule
+
+Key Features-
+Fully linked and dynamic 3-statement model
+Scenario-based valuation analysis
+Clean and structured Excel design
+Assumption-driven forecasting
+Integrated supporting schedules
+
+How to Use-
+Open the Excel file
+Navigate to the “Scenario Analysis” sheet
+Select the desired scenario (Best/Base/Worst)
+Review outputs in:
+  Valuation sheet
   Financial statements
 
-My thesis-
-1.Discretionary spending habits for Ultra HNI Segment 
-2.Agressive growth expansion plan of the management (10x business in next 10 years)
-3.Expanding moats of the business - Exclusive brand, watches made for specially for india by partner brands, sell of pre owned watches, insurance for watches
-4.Very few luxury and ultra luxury theme available in market
+Investment Thesis-
+1. Strong exposure to discretionary spending by Ultra HNI segment
+2. Aggressive expansion strategy targeting 10x growth over the next decade
+3. Increasing competitive moat through:
+  Exclusive brand partnerships
+  India-specific luxury offerings
+  Pre-owned watch segment
+  Insurance for wayches
+4. Limited listed players in the luxury retail theme
 
 Anti-Thesis-
-1.Stock seems to have priced in future growth
-2.International trade and geopolitical risk
-3.Forex risk 
-4.Government policy risk- taxes on luxury items 
+1. Current stock price may already factor in future growth
+2. Exposure to global trade and geopolitical risks
+3. Forex volatility impacting margins
+4. Regulatory risks (e.g., taxes on luxury goods)
 
-About This Project-
-This project was created as part of my learning/practice in financial modeling and valuation. It reflects my ability to analyze financial data and build structured, dynamic models.
+Tools Used-
+Microsoft Excel
+Financial Modeling & Valuation techniques
+
+File Information
+File: Ethos Ltd. FMVA.xlsx
+Type: Financial Model
+
+About This Project
+This project was developed as part of my practice in financial modeling and valuation. It reflects my ability to build structured, dynamic, and insight-driven.financial models.
   
