@@ -56,8 +56,8 @@ How to Use-
 2. Navigate to the “Scenario Analysis” sheet
 3. Select the desired scenario (Best/Base/Worst)
 4. Review outputs in:
-  i. Valuation sheet & 
-  ii. Financial statements
+   Valuation sheet & 
+   Financial statements
 
 Investment Thesis:
 1. Strong exposure to discretionary spending by Ultra HNI segment
