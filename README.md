@@ -15,12 +15,12 @@ The Excel model is organized into the following key sections:
 Centralized input sheet for all key drivers
 All model outputs are dynamically linked to this sheet
 
-2. Valuation
+2. Valuation:
 Relative Valuation (Comparable Company Analysis)
 Absolute Valuation (Discounted Cash Flow – DCF)
 Final valuation derived using a blended approach
 
-3. Scenario Analysis
+3. Scenario Analysis:
 User-controlled sheet
 Toggle between Best, Base, and Worst case scenarios
 Automatically reflects impact on valuation and financials
@@ -31,12 +31,12 @@ Automatically reflects impact on valuation and financials
 
 6. Cash Flow Statement
 
-5. Revenue Model
-Driven by:
+5. Revenue Model:
+Driven by
 Number of new stores added
 Same Store Growth (SSG)
 
-6. Cost Model
+6. Cost Model:
 
 7. Supporting Schedules-
   Capex Schedule
@@ -44,7 +44,7 @@ Same Store Growth (SSG)
   Lease Schedule
   Debt Schedule
 
-Key Features-
+Key Features:
 Fully linked and dynamic 3-statement model
 Scenario-based valuation analysis
 Clean and structured Excel design
@@ -52,14 +52,14 @@ Assumption-driven forecasting
 Integrated supporting schedules
 
 How to Use-
-Open the Excel file
-Navigate to the “Scenario Analysis” sheet
-Select the desired scenario (Best/Base/Worst)
-Review outputs in:
-  Valuation sheet
-  Financial statements
+1. Open the Excel file
+2. Navigate to the “Scenario Analysis” sheet
+3. Select the desired scenario (Best/Base/Worst)
+4. Review outputs in:
+  i. Valuation sheet
+  ii. Financial statements
 
-Investment Thesis-
+Investment Thesis:
 1. Strong exposure to discretionary spending by Ultra HNI segment
 2. Aggressive expansion strategy targeting 10x growth over the next decade
 3. Increasing competitive moat through:
@@ -69,20 +69,20 @@ Investment Thesis-
   Insurance for wayches
 4. Limited listed players in the luxury retail theme
 
-Anti-Thesis-
+Anti-Thesis:
 1. Current stock price may already factor in future growth
 2. Exposure to global trade and geopolitical risks
 3. Forex volatility impacting margins
 4. Regulatory risks (e.g., taxes on luxury goods)
 
-Tools Used-
+Tools Used:
 Microsoft Excel
 Financial Modeling & Valuation techniques
 
-File Information
+File Information:
 File: Ethos Ltd. FMVA.xlsx
 Type: Financial Model
 
-About This Project
+About This Project:
 This project was developed as part of my practice in financial modeling and valuation. It reflects my ability to build structured, dynamic, and insight-driven.financial models.
   
