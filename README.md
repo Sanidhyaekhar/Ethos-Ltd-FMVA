@@ -11,7 +11,7 @@ Analyze different business scenarios (Best, Base, Worst)
 Model Structure
 The Excel model is organized into the following key sections:
 
-1. Assumptions
+1. Assumptions:
 Centralized input sheet for all key drivers
 All model outputs are dynamically linked to this sheet
 
