@@ -36,12 +36,12 @@ Driven by
 Number of new stores added
 Same Store Growth (SSG)
 
-6. Cost Model:
+6. Cost Model
 
 7. Supporting Schedules-
-  Capex Schedule
-  Working Capital Schedule
-  Lease Schedule
+  Capex Schedule,
+  Working Capital Schedule,
+  Lease Schedule & 
   Debt Schedule
 
 Key Features:
