@@ -63,9 +63,9 @@ Investment Thesis:
 1. Strong exposure to discretionary spending by Ultra HNI segment
 2. Aggressive expansion strategy targeting 10x growth over the next decade
 3. Increasing competitive moat through:
-  Exclusive brand partnerships
-  India-specific luxury offerings
-  Pre-owned watch segment
+  Exclusive brand partnerships,
+  India-specific luxury offerings,
+  Pre-owned watch segment &
   Insurance for watches
 4. Limited listed players in the luxury retail theme
 
