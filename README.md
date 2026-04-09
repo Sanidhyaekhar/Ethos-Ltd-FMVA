@@ -87,4 +87,5 @@ Type: Financial Model
 
 ## Disclaimer:
 This project was developed as part of my practice in financial modeling and valuation. It reflects my ability to build structured, dynamic, and insight-driven financial models.
-  
+
+👤 **Author- [Sanidhya Ekhar](www.linkedin.com/in/sanidhya-ekhar)**
