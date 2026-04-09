@@ -1,4 +1,4 @@
-## Ethos Ltd. Financial Model
+## Ethos Ltd. Financial Model & Valuation
 
 This project is a comprehensive financial model of Ethos Limited, built in Microsoft Excel. It includes detailed analysis of the company’s financial performance, covering historical data, forecasting, and valuation.
 The model demonstrates core financial modeling skills such as 3-statement modeling, scenario analysis, and valuation techniques.
