@@ -1,14 +1,16 @@
+## Ethos Ltd. Financial Model
+
 This project is a comprehensive financial model of Ethos Limited, built in Microsoft Excel. It includes detailed analysis of the company’s financial performance, covering historical data, forecasting, and valuation.
 The model demonstrates core financial modeling skills such as 3-statement modeling, scenario analysis, and valuation techniques.
 
-Objectives-
+## Objectives-
 Analyze historical financial performance
 Build a fully integrated 3-statement financial model
 Forecast revenue, costs, and profitability
 Perform valuation using multiple approaches
 Analyze different business scenarios (Best, Base, Worst)
 
-Model Structure
+## Model Structure
 The Excel model is organized into the following key sections:
 
 1. Assumptions:
@@ -44,14 +46,14 @@ Same Store Growth (SSG)
   Lease Schedule & 
   Debt Schedule
 
-Key Features:
+## Key Features:
 Fully linked and dynamic 3-statement model
 Scenario-based valuation analysis
 Clean and structured Excel design
 Assumption-driven forecasting
 Integrated supporting schedules
 
-How to Use-
+## How to Use-
 1. Open the Excel file
 2. Navigate to the “Scenario Analysis” sheet
 3. Select the desired scenario (Best/Base/Worst)
@@ -59,7 +61,7 @@ How to Use-
    Valuation sheet & 
    Financial statements
 
-Investment Thesis:
+## Investment Thesis:
 1. Strong exposure to discretionary spending by Ultra HNI segment
 2. Aggressive expansion strategy targeting 10x growth over the next decade
 3. Increasing competitive moat through:
@@ -69,20 +71,20 @@ Investment Thesis:
   Insurance for watches
 4. Limited listed players in the luxury retail theme
 
-Anti-Thesis:
+## Anti-Thesis:
 1. Current stock price may already factor in future growth
 2. Exposure to global trade and geopolitical risks
 3. Forex volatility impacting margins
 4. Regulatory risks (e.g., taxes on luxury goods)
 
-Tools Used:
+## Tools Used:
 1. Microsoft Excel
 2. Financial Modeling & Valuation techniques
 
-File Information:
+## File Information:
 File: Ethos Ltd. FMVA.xlsx
 Type: Financial Model
 
-About This Project:
+## Disclaimer:
 This project was developed as part of my practice in financial modeling and valuation. It reflects my ability to build structured, dynamic, and insight-driven financial models.
   
